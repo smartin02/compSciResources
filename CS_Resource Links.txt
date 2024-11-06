@@ -1,0 +1,15 @@
+Link to Resoures:
+
+Data Struct Visualization
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
+C++ Full Course
+https://youtu.be/vLnPwxZdW4Y?si=yivyIm153-wOMMsN
+
+Learn C++ (More Practice)
+https://www.learncpp.com/
+
+LeetCode (Interview Question Type Challenge)
+https://leetcode.com/
+
+//I need to find that Havard CS50 Playlist link
